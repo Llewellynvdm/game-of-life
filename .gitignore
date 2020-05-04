@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# some locale folders
+cmake-build-debug
+.idea
