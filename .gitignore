@@ -34,3 +34,4 @@
 # some locale folders
 cmake-build-debug
 .idea
+build
